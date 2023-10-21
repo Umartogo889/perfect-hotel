@@ -1,0 +1,595 @@
+.banner .bir-q {
+    display: inline-block;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(43, 48, 77);
+    height: 80px;
+}
+
+.banner li a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.sign-in a {
+    border: none;
+
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    border-radius: 10px;
+    transition: 1.1s;
+    padding: 13px 50px;
+    text-decoration: none;
+    margin-bottom: 10px;
+
+}
+
+.sign-in a:hover {
+    border-radius: 30px;
+    background-color: #d6ab1e;
+}
+
+
+.bir-q {
+    margin-right: 700px;
+    margin-top: 10px;
+}
+
+ul a {
+    margin-top: 10px;
+}
+
+.banner1 ul {
+    position: relative;
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    margin-right: 100px;
+
+}
+
+.banner1 ul li a {
+    text-decoration: none;
+    display: flex;
+}
+
+.banner1 {
+    background-image: url(./images/rixospremium2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.banner1 del {
+    color: black;
+    text-decoration: none;
+    gap: 10px;
+
+}
+
+.banner1 * {
+    color: white;
+}
+
+.yozuv1 h1 {
+    position: absolute;
+    display: inline-block;
+    right: 55vh;
+    bottom: 53vh;
+    color: white;
+
+}
+
+.yozuv1 h5 {
+    position: absolute;
+    display: inline-block;
+    right: 55vh;
+    bottom: 45vh;
+    color: white;
+    width: 800px;
+    text-align: center;
+}
+
+.banner {
+    background-color: #020202cc;
+    height: 100vh;
+}
+
+.banner button {
+    position: absolute;
+    bottom: 30vh;
+    width: 170px;
+    height: 55px;
+    background: white;
+    border: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    right: 90vh;
+    transition: 2s;
+}
+
+.banner button:hover {
+    border-radius: 30px;
+    background-color: #d6ab1e;
+}
+
+.ikki-qism {
+    background-color: white;
+    bottom: 100px;
+    left: 30vh;
+    position: relative;
+    width: 1200px;
+    height: 1440px;
+    border-radius: 30px;
+
+
+}
+
+.ikki-qism {
+    position: relative;
+    display: flex;
+    text-align: center;
+}
+
+.input1 h1 {
+    color: #35323281;
+    font-size: 10px;
+    font-size: 25px;
+
+}
+
+.input2 h1 {
+    color: #35323281;
+    font-size: 10px;
+    font-size: 25px;
+}
+
+.input3 h1 {
+    color: #35323281;
+    font-size: 10px;
+    font-size: 25px;
+}
+
+.input1 input {
+    height: 35px;
+    border-radius: 20px;
+    background-color: #6b60603a;
+    border: none;
+    width: 220px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+.input1 input {
+    height: 35px;
+    border-radius: 20px;
+    background-color: #6b60603a;
+    border: none;
+    width: 220px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+
+.input2 input {
+    height: 35px;
+    border-radius: 20px;
+    background-color: #6b60603a;
+    border: none;
+    width: 220px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+
+.input3 input {
+    height: 35px;
+    border-radius: 20px;
+    background-color: rgba(107, 96, 96, 0.226);
+    border: none;
+    width: 220px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+
+.button-ikki button {
+    border: none;
+    width: 170px;
+    height: 50px;
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 55px;
+    margin-left: 66px;
+    transition: 1.1s;
+}
+
+.button-ikki button:hover {
+    border-radius: 30px;
+    background-color: #d6ab1e;
+}
+
+.ikkinchi-qismi {
+    position: absolute;
+    right: 3px;
+    top: 200px;
+}
+
+.ikkinchi-qismi2 {
+    display: flex;
+    position: absolute;
+    gap: 20px;
+    right: 3px;
+    top: 470px;
+}
+
+.hashlar h1 {
+    color: black;
+    position: absolute;
+    display: inline-block;
+    left: 100px;
+    top: 300px;
+    font-size: 60px;
+    font-weight: 100;
+}
+
+.hashlar h2 {
+    position: absolute;
+    left: 100px;
+    top: 370px;
+    font-weight: 900;
+    font-size: 60px;
+}
+
+.hashlar blockquote {
+    position: absolute;
+    left: 40px;
+    top: 500px;
+    color: black;
+    font-size: 20px;
+    width: 500px;
+}
+
+.button11 button {
+    border: none;
+    width: 170px;
+    height: 50px;
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    border-radius: 10px;
+    position: absolute;
+    transition: 1.1s;
+    left: 60px;
+    top: 680px;
+}
+
+.button11 button:hover {
+    border-radius: 30px;
+    background-color: #d6ab1e;
+}
+
+.rasmlar-uch img {
+    width: 740px;
+    height: 630px;
+    left: 10px;
+    position: absolute;
+    bottom: 0%;
+}
+
+.xarflar h5 {
+    color: black;
+    position: absolute;
+    right: -10px;
+    font-size: 85px;
+    font-weight: 900;
+    bottom: 130px;
+}
+
+
+.xarflar h4 {
+    position: absolute;
+    display: inline-block;
+    color: black;
+    right: 20px;
+    font-size: 70px;
+    font-weight: 100;
+    bottom: 250px;
+}
+
+.xarflar span {
+    position: absolute;
+    color: black;
+    width: 500px;
+    font-size: 20px;
+    bottom: 120px;
+    right: -70px;
+}
+
+.kuk-rang {
+    position: relative;
+    width: 2010px;
+    height: 800px;
+    background-color: rgb(33, 33, 49);
+}
+
+.kuk-rang h1 {
+    position: absolute;
+    font-weight: 900;
+    font-size: 60px;
+    left: 150px;
+    top: 28%;
+}
+
+.kuk-rang blockquote {
+    width: 600px;
+    font-size: 25px;
+    position: absolute;
+    left: 100px;
+    top: 40%;
+}
+
+.kuk-rang iframe {
+    position: absolute;
+    right: 250px;
+    width: 800px;
+    height: 650px;
+    top: 12%;
+}
+
+.xarflar button {
+    border: none;
+    width: 170px;
+    height: 50px;
+    background-color: #000;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    position: absolute;
+    transition: 1.1s;
+    bottom: 10px;
+}
+
+.xarflar button:hover {
+    border-radius: 30px;
+    background-color: #d6ab1e;
+}
+
+.ikki-rang {
+    position: relative;
+    width: 3000px;
+    background-repeat: no-repeat;
+    background-image: url(http://www.dilekci.com/wp-content/uploads/2018/11/10-4.jpg);
+}
+
+.ikki-rang2 {
+    background-color: #ffffffd7;
+    height: 800px;
+}
+
+.savol {
+    position: absolute;
+    width: 530px;
+    height: 200px;
+    background-color: #d6611e;
+    background-repeat: no-repeat;
+    bottom: 35%;
+
+}
+
+.savol {
+    left: 1000px;
+}
+
+.spann img {
+    position: absolute;
+    right: 15px;
+}
+
+.border {
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+    position: relative;
+    top: 300px;
+    background-color: #ff5100fb;
+}
+
+
+
+.sariq h1 {
+    position: absolute;
+    color: black;
+    font-size: 50px;
+    left: 25%;
+    background-color: #ffffffd7;
+}
+
+.savol span {
+    font-size: 23px;
+    position: absolute;
+    left: 30px;
+    width: 450px;
+}
+
+.spann h4 {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.savol img {
+    right: 5px;
+    top: 5px;
+    position: absolute;
+}
+
+.savol-2 {
+    position: relative;
+    width: 530px;
+    height: 200px;
+    background-color: #d6611e;
+    background-repeat: no-repeat;
+    bottom: 35%;
+}
+
+.savol-2 span {
+    font-size: 23px;
+    position: absolute;
+    left: 30px;
+    width: 450px;
+}
+
+.span h4 {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.savol-2 img {
+    right: 5px;
+    top: 5px;
+    position: absolute;
+}
+
+.savol-2 {
+    position: absolute;
+    right: 600px;
+    top: 1px;
+}
+
+.inp1 input {
+    margin-left: 30px;
+    right: 50%;
+    width: 300px;
+    height: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    color: black;
+    /* caret-color: green; */
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+.inp2 input {
+    margin-left: 30px;
+    right: 50%;
+    width: 300px;
+    height: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 20px;
+    color: black;
+}
+
+.inp3 input {
+    margin-left: 30px;
+    right: 50%;
+    width: 300px;
+    height: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 20px;
+    color: black;
+
+}
+
+.inp5 input {
+    margin-left: 30px;
+    right: 50%;
+    width: 300px;
+    height: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 20px;
+    color: #000;
+
+}
+
+.inp4 button {
+    border: none;
+    width: 170px;
+    height: 50px;
+    background-color: #000;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    position: absolute;
+    transition: 1.1s;
+    left: 28%;
+    bottom: 40px;
+
+}
+
+.inp4 button:hover {
+    border-radius: 30px;
+    background-color: #d6ab1e;
+}
+
+.div {
+    position: relative;
+    bottom: 450px;
+    left: 1100px;
+}
+
+.divv {
+    position: relative;
+}
+
+.div2 {
+    width: 1920px;
+    height: 500px;
+    background-color: rgb(26, 24, 24);
+    position: absolute;
+
+}
+
+.divv1 h1 {
+    position: absolute;
+    top: 10%;
+    left: 500px;
+    font-size: 55px;
+}
+
+.divv1 span {
+    font-size: 40px;
+    width: 400px;
+    position: absolute;
+    left: 500px;
+    top: 30%;
+}
+
+.divv1 p {
+    width: 600px;
+    position: absolute;
+    left: 500px;
+    top: 50%;
+}
